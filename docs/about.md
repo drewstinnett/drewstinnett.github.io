@@ -9,7 +9,14 @@ Drew is a Sr. Analyst at Duke University.  His areas of focus include:
 * Kubernetes
 * Python
 * Security
-* Cloud Junk™️
+* Cloud Junk
 
 While not nerding it up with technology work, you'll probably find Drew
 watching horror movies
+
+Co-host of the [Imminent Teachnology](https://podcast.imminentteachnology.com/)
+Podcast.  This podcast takes a look at technology through the lens of diversity
+and inclusion
+
+Host of the [Movies with Drew](https://anchor.fm/movieswithdrew) Podcast. Here
+I have guests on and we just talk about a movie.
