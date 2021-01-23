@@ -6,28 +6,29 @@
 # feature for the data you need to update frequently.
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# 'bundle exec jekyll serve'. If you change this file, please restart the
+# server process.
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+---
 title: Drew Stinnett
 email: drew@drewlink.com
 description: >- # this means to ignore newlines until "baseurl:"
   Drew Stinnetts personal code page. So much useful stuff here OMG 😲
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""  # the subpath of your site, e.g. /blog
+url: "https://drewstinnett.github.io"
 twitter_username: brewerdrewer
-github_username:  drewstinnett
+github_username: drewstinnett
 show_excerpts: true
 
 # Build settings
 markdown: kramdown
-#theme: minima
-#theme: jekyll-theme-cayman
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
