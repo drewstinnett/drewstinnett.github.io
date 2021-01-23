@@ -27,7 +27,7 @@ show_excerpts: true
 markdown: kramdown
 #theme: minima
 #theme: jekyll-theme-cayman
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
