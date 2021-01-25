@@ -19,16 +19,19 @@
 title: Drew Stinnett
 email: drew@drewlink.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Drew Stinnetts personal code page. So much useful stuff here OMG 😲
+  Personal code page. So much useful stuff here OMG 😲.  Tryna get better with
+  this documentation thing
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: "https://drewstinnett.github.io"
 twitter_username: brewerdrewer
 github_username: drewstinnett
 show_excerpts: true
+show_downloads: false
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
