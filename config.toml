@@ -1,3 +1,55 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://drewstinnett.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Drew Stinnett'
+theme = 'hugo-coder'
+defaultContentLanguage = "en"
+paginate = 20
+pygmentsStyle = "bw"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+enableEmoji = true
+staticDir = ['static']
+
+[params]
+  author = "Drew Stinnett"
+  info = "DevOps Engineer"
+  description = "Drew Stinnetts personal website"
+  keywords = "blog,developer,personal"
+  avatarURL = "images/avatar.png"
+
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
+
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/drewstinnett/" 
+[[params.social]]
+  name = "Gitlab"
+  icon = "fa fa-gitlab fa-2x"
+  weight = 2
+  url = "https://gitlab.com/drewstinnett/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/BrewerDrewer/"  
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-2x fa-linkedin"
+  weight = 4
+  url = "https://www.linkedin.com/in/drewstinnett/"
+[[params.social]]
+  name = "Podcast"
+  icon = "fa fa-2x fa-microphone"
+  weight = 4
+  url = "https://podcast.imminentteachnology.com/"
