@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2021-12-30T20:11:01-05:00
 title = "Best Films of 2021"
 description = "Collection of top films of 2021"
@@ -48,3 +48,28 @@ Rearranged this a little to get some duplicates out
 * [Candyman](https://letterboxd.com/film/candyman-2021/) - Great movie, but it got a little spoiled in the previews. Overall loved it, great acting, great writing, really cool way to re-imagine the whole Candyman lore, but keep it true to the first film.
 
 Honorable mention to [Halloween Kills](https://letterboxd.com/film/halloween-kills/), [Malignant](https://letterboxd.com/film/malignant-2021/) and [Fear Street: 1994](https://letterboxd.com/film/fear-street-1994/)
+
+## Top 5 Documentaries
+
+All y'all thinking I only watch Horror...guess what, there's a bunch of documentaries too!
+
+![best-documentaries](/images/2021-films/documentaries.png)
+
+* [In Search of Darkeness: Part II](https://letterboxd.com/film/in-search-of-darkness-part-ii/) - Part 2 of a 3 part series on 80's horror. Really goes in depth in to lots of films.
+* [Val](https://letterboxd.com/film/val/) - Lots of footage of Val Kilmer through the years, documenting his rise to fame, sickness, and current state. Lots of sadness, but also lots of happiness.
+* [Yung Lean: In My Head](https://letterboxd.com/film/yung-lean-in-my-head/) - Interesting portrait of the Swedish Rapper, living a compressed rockstar lifestyle before he turns 20, and how he survived.
+* [Feels Good Man](https://letterboxd.com/film/feels-good-man/) - Artist trying to get his Pepe creation back from the alt-right crazies
+* [The Dissident](https://letterboxd.com/film/the-dissident/) - Jamal Khashoggi doc. 😪
+
+## Worst 5
+
+Not counting low budget horror that just didn't connect, these are the worst
+films of the year that had a good budget, but awful execution.
+
+![worst](/images/2021-films/worst.png)
+
+* [Jungle Cruise](https://letterboxd.com/film/jungle-cruise/) - The Rock is awful.
+* [Snake Eyes: G.I. Joe Origins](https://letterboxd.com/film/snake-eyes-gi-joe-origins/) - Even Samara Weaving couldn't save this movie. It's like they didn't film any of the fun parts.
+* [Reminiscence](https://letterboxd.com/film/reminiscence-2021/) - 🤮
+* [The Protégé](https://letterboxd.com/film/the-protege/) - WTF was the theme here?
+* [Those Who Wish Me Dead](https://letterboxd.com/film/those-who-wish-me-dead/) - I can't believe this is an actual movie
