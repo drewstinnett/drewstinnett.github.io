@@ -18,7 +18,7 @@ to be new-to-me, and pretty close to being released in 2021.
 
 * [Pig](https://letterboxd.com/film/pig-2021/) - Best Nic Cage movie of the year, and contender for best film of the year. Not quite what I was expecting to see, but super beautiful and touching all the way through.
 * [In the Heights](https://letterboxd.com/film/in-the-heights/) - First solo movie trip of the year. Love this, it was super fun, the music was great, all of the actors were awesome...and the music was sooo good. Also my most re-watched new movie of the year.
-* [The Green Knight](https://letterboxd.com/film/the-green-knight/) - Not really what the trailer let us to believe it would be, but really cool and all around weird mood and setting.
+* [The Green Knight](https://letterboxd.com/film/the-green-knight/) - Not really what the trailer led us to believe it would be, but really cool and all around weird mood and setting.
 * [Lamb](https://letterboxd.com/film/lamb-2021/) - Another weird movie that relied on the strange setting. Not gonna lie, sometimes I feel like we treat the cats the way the couple treats the lamb here.
 * [Halloween Kills](https://letterboxd.com/film/halloween-kills/) - People seem to generally hate this one, but I loved it. The dialogue was awful, but the characters were great. I loved how they put time in to building each character up before brutally killing them.
 
@@ -32,8 +32,8 @@ Ok, there are only 4, and that's stretching it.
 
 * [Titane](https://letterboxd.com/film/titane/) - Another best overall this year. I love how when I tell people what the plot of this thing is, they look at me like I'm a crazy person.
 * [Lamb](https://letterboxd.com/film/lamb-2021/) - One good way to keep me watching a foreign language film is to have minimal dialogue, this movie gets that.
-* [Benedetta](https://letterboxd.com/film/benedetta/) - Super weird Verhoeven movie about a nun who is literally in love with Jesus (I think?). Very french, but still a great movie.
-* [Wrath of Man](https://letterboxd.com/film/wrath-of-man/) - Jason Statham being all cool. I know it's technically still english, but the accents are pretty heavy, so it counts
+* [Benedetta](https://letterboxd.com/film/benedetta/) - Super weird Verhoeven movie about a nun who is literally in love with Jesus (I think?). Very French, but still a great movie.
+* [Wrath of Man](https://letterboxd.com/film/wrath-of-man/) - Jason Statham being all cool. I know it's technically still English, but the accents are pretty heavy, so it counts
 
 ## Top 5 Horror Films
 
