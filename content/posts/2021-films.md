@@ -55,7 +55,7 @@ All y'all thinking I only watch Horror...guess what, there's a bunch of document
 
 ![best-documentaries](/images/2021-films/documentaries.png)
 
-* [In Search of Darkeness: Part II](https://letterboxd.com/film/in-search-of-darkness-part-ii/) - Part 2 of a 3 part series on 80's horror. Really goes in depth in to lots of films.
+* [In Search of Darkeness: Part II](https://letterboxd.com/film/in-search-of-darkness-part-ii/) - Part 2 of a 3 part series on 80's horror. Really goes in depth into lots of films.
 * [Val](https://letterboxd.com/film/val/) - Lots of footage of Val Kilmer through the years, documenting his rise to fame, sickness, and current state. Lots of sadness, but also lots of happiness.
 * [Yung Lean: In My Head](https://letterboxd.com/film/yung-lean-in-my-head/) - Interesting portrait of the Swedish Rapper, living a compressed rockstar lifestyle before he turns 20, and how he survived.
 * [Feels Good Man](https://letterboxd.com/film/feels-good-man/) - Artist trying to get his Pepe creation back from the alt-right crazies
