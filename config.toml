@@ -17,6 +17,8 @@ staticDir = ['static']
   keywords = "blog,developer,personal"
   avatarURL = "images/avatar.png"
 
+[params.goatCounter]
+  code = "drewlink" 
 
 # Menu links
 [[menu.main]]
