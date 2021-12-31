@@ -20,7 +20,7 @@ to be new-to-me, and pretty close to being released in 2021.
 * [In the Heights](https://letterboxd.com/film/in-the-heights/) - First solo movie trip of the year. Love this, it was super fun, the music was great, all of the actors were awesome...and the music was sooo good. Also my most re-watched new movie of the year.
 * [The Green Knight](https://letterboxd.com/film/the-green-knight/) - Not really what the trailer let us to believe it would be, but really cool and all around weird mood and setting.
 * [Lamb](https://letterboxd.com/film/lamb-2021/) - Another weird movie that relied on the strange setting. Not gonna lie, sometimes I feel like we treat the cats the way the couple treats the lamb here.
-* [Halloween Kills](https://letterboxd.com/film/halloween-kills/) - People seem to generally hate this one, but I loved it. The dialogue was awfule, but the characters were great. I loved how they put time in to building each character up before brutally killing them.
+* [Halloween Kills](https://letterboxd.com/film/halloween-kills/) - People seem to generally hate this one, but I loved it. The dialogue was awful, but the characters were great. I loved how they put time in to building each character up before brutally killing them.
 
 [Full List of movies we saw in the theater](https://letterboxd.com/mondodrew/list/2021-movie-church/)
 
