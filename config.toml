@@ -55,3 +55,8 @@ staticDir = ['static']
   icon = "fa fa-2x fa-microphone"
   weight = 4
   url = "https://podcast.imminentteachnology.com/"
+[[params.social]]
+  name = "Letterboxd"
+  icon = "fa fa-2x fa-ticket"
+  weight = 4
+  url = "https://letterboxd.com/mondodrew/"
