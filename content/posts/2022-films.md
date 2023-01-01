@@ -13,7 +13,7 @@ series = []
 
 ![best-in-theater-films](/images/2022-films/best-theater.png)
 
-* [X](https://letterboxd.com/film/x-2022/) Super fun horror and well made throw-back horror film. Lots of awesome gory deaths and great characters. Honorable mention for it's surprise sequel [Pearl](https://letterboxd.com/film/pearl-2022/) which didn't make the top 5, but was still really fun.
+* [\X](https://letterboxd.com/film/x-2022/) Super fun horror and well made throw-back horror film. Lots of awesome gory deaths and great characters. Honorable mention for it's surprise sequel [Pearl](https://letterboxd.com/film/pearl-2022/) which didn't make the top 5, but was still really fun.
 * [Babylon](https://letterboxd.com/film/babylon-2022/) One of two amazing movies about the magic of films this year (Shout out to [The Fabelmans](https://letterboxd.com/film/the-fabelmans/)). Great spectacle and music set in old Hollywood. Excited to see this one again.
 * [The Banshees of Inisherein](https://letterboxd.com/film/the-banshees-of-inisherin/) Always excited for whatever Martin McDonagh does. Still doesn't beat [In Bruges](https://letterboxd.com/film/in-bruges/) or [Seven Psychopaths](https://letterboxd.com/film/seven-psychopaths/), but still great.
 * [Bones and All](https://letterboxd.com/film/bones-and-all/) Best coming of age cannibal movie of the decade for sure!
