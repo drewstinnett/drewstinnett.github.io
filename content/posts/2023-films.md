@@ -2,7 +2,7 @@
 draft = false
 date = 2024-01-01T01:11:01-05:00
 title = "Best Films of 2023"
-description = "Collection of top films of 2024"
+description = "Collection of top films of 2023"
 slug = "film-2023"
 authors = ["Drew Stinnett"]
 externalLink = ""
